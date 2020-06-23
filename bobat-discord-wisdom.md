@@ -35,8 +35,7 @@ Manual Focus: lock it in and leave it
 hirs: Yup
     Then after that it is just finding the sweet spot and correct initial body
     position to make them work
-Manual Focus:
-    i can usually feel out the spot
+Manual Focus: i can usually feel out the spot
     but just slip off
     probably cause im still using my wrist to pivot around
 hirs: Yeah, that is quite likely
