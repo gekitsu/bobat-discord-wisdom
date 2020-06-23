@@ -6,7 +6,9 @@ This repository contains a selection of exchanges, knowledge drops, explanations
 
 ## Contributions
 
-If you have an account on here, feel free to pull request. Otherwise, hit me up on the Discord.
+If you have an account on here, feel free to pull request. Otherwise, hit me up on the Discord with message links to exchanges or wisdom nuggets you want added.
+
+As a style guideline, let’s use second-level headings for larger subdivisions, a third-level heading per added entry, and entries themselves in fenced code blocks, 79 characters line length, and subsequent lines indented with 4 spaces.
 
 ## License
 
