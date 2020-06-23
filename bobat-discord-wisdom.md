@@ -27,4 +27,19 @@ gekitsu: like, when you have to pull over the sloper, maintaining a hand and
     the hold, despite your centre of gravity moving closer to the hold or even
     above it.
 hirs: ^^
+(...)
+hirs: When you're hanging a sloper and then need to move off it, really focus
+    on only moving from the elbow and shoulder. Don't let your wrist move at
+    all
+Manual Focus: lock it in and leave it
+hirs: Yup
+    Then after that it is just finding the sweet spot and correct initial body
+    position to make them work
+Manual Focus:
+    i can usually feel out the spot
+    but just slip off
+    probably cause im still using my wrist to pivot around
+hirs: Yeah, that is quite likely
+    Really drop that elbow and keep wrist locked as you move and should notice
+    a big difference
 ```
