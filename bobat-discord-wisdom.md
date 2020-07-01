@@ -42,3 +42,9 @@ hirs: Yeah, that is quite likely
     Really drop that elbow and keep wrist locked as you move and should notice
     a big difference
 ```
+
+## Injuries
+
+### Weblinks
+
+* Esther Smith for Black Diamond – [Hang Right Part 3 – Healing Nagging Finger Injuries](https://www.blackdiamondequipment.com/en_US/esther-smith-nagging-finger-injuries/esther-smith-nagging-finger-injuries.html)
