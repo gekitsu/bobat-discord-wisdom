@@ -47,5 +47,9 @@ hirs: Yeah, that is quite likely
 
 ### Links and Other External Resources
 
+* Dave MacLeod – Make or Break: Don’t Let Climbing Injuries Dictate Your Success. (ISBN: 0956428134)
+
 * Esther Smith for Black Diamond – [Hang Right Part 3 – Healing Nagging Finger Injuries](https://www.blackdiamondequipment.com/en_US/esther-smith-nagging-finger-injuries/esther-smith-nagging-finger-injuries.html)
 * Jeff Giddings for Climbing.com – [The Complete Pulley Injury Rehab Program for Climbers](https://www.climbing.com/skills/the-complete-pulley-injury-rehab-program-for-climbers/)
+
+* Steven Low – [Overcoming Tendonitis](http://stevenlow.org/overcoming-tendonitis/)
