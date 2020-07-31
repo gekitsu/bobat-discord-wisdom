@@ -45,6 +45,7 @@ hirs: Yeah, that is quite likely
 
 ## Injuries
 
-### Weblinks
+### Links and Other External Resources
 
 * Esther Smith for Black Diamond – [Hang Right Part 3 – Healing Nagging Finger Injuries](https://www.blackdiamondequipment.com/en_US/esther-smith-nagging-finger-injuries/esther-smith-nagging-finger-injuries.html)
+* Jeff Giddings for Climbing.com – [The Complete Pulley Injury Rehab Program for Climbers](https://www.climbing.com/skills/the-complete-pulley-injury-rehab-program-for-climbers/)
