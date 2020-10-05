@@ -53,3 +53,9 @@ hirs: Yeah, that is quite likely
 * Jeff Giddings for Climbing.com – [The Complete Pulley Injury Rehab Program for Climbers](https://www.climbing.com/skills/the-complete-pulley-injury-rehab-program-for-climbers/)
 
 * Steven Low – [Overcoming Tendonitis](http://stevenlow.org/overcoming-tendonitis/)
+
+## Training & Exercise
+
+### Links and Other External Resources
+
+* Volker Schöffl, Dicki Korb, Patrick Matros – [Adjunct Compensatory Training for Rock Climbers](https://www.sozialstiftung-bamberg.de/static/act-pdf/index.html) (This is a full exercise book, downloadable for free!)
