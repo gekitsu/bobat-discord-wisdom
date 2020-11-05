@@ -43,6 +43,10 @@ hirs: Yeah, that is quite likely
     a big difference
 ```
 
+### Links and Other External Resources
+
+* Pete Whittaker – Crack Climbing. (ISBN: 1911342762 (UK) or 1680512153 (US)
+
 ## Injuries
 
 ### Links and Other External Resources
