@@ -43,6 +43,65 @@ hirs: Yeah, that is quite likely
     a big difference
 ```
 
+### The Whole Gang Weighing In on How to Improve Footwork
+
+```
+Sean: I'm quite intrigued how others improve their footwork and movement in
+    bouldering and leading. Any one from here have anything they do in
+    particular
+MrFisto: Climbing slow and watching every foot placement is my go to. Bonus of
+    not adjusting the foot once it's placed.
+Sean: Yeah I'll definitely try that
+    Mostly when I try a bit harder all seems to go to shit really
+MrFisto: Focusing on toeing in really hard on holds is good as well, as all
+    that tension transmits to your whole body.
+epthianura: Glass holds
+    Imagine they're made of glass
+    Put your toe on carefully. Weight it deliberately once it's on the right
+    place.
+Oats: What the others said, though. I think it's good to just be conscious of
+    the footwork; go slow and watch your feet. Don't look away until it's
+    placed/weighed upon. I find a really good opportunity to do it is when you
+    are warming up because (hopefully) over time you build that habit in. So
+    even when you are climbing harder stuff, it's something that becomes more
+    intuitive to do
+    I also think it's not enough to just place it quietly or whatever else.
+    I see a lot of people place their foot well (great!) but they still don't
+    actually weigh or sit on it
+    Something you can do to try to make sure you've actually weighed the foot
+    is drop your butt out, flex the ankles on that hold, etc. (again, I often
+    do this on warmups)
+    Something I also do (easier on vert and slab) is see how much you can
+    actually weight your foot on a hold and see if you can reduce the number
+    of fingers/palm you have on a hold so you're barely hanging on w/ your
+    fingers/arms. All the weight should be in your feet. If you're doing
+    overhanging stuff, sometimes I'll plant my feet somewhere, and just move
+    my arms up. Try not to cut. It will feel like shit for sure when you are
+    stretched out, but it's a good way to think about body tension and plant
+    those feet!
+    But yeah, mostly just be conscious of it all the time, and build up those
+    good habits
+    /endwalloftext
+    (One more thing – avoid hop matches if you can. I always consciously make
+    sure I touch the corner of a hold so I make room for the other foot if I
+    need to match, or I just smush the foot on top, or even smear the wall).
+    The hop match isn't bad per se and sometimes you really have no option
+    when it's a tiny ass piece of shit....but I see people hop matching on
+    giant jugs and stuff like that all the time and it's like...nah you don't
+    need to do that)
+Slie: trust them feet!
+    i was showing someone a move a couple days ago on a climb they were stuck
+    on. death gripping like crazy, using almost all upper body to support
+    themselves.
+    did the move using one foot only, took both hands and my other foot off
+    the wall.
+    she was like "i really need to start trusting my feet"
+    you know what I've found goes hand in hand with foot work, is hip/pelvis
+    work.
+    I find a lot of people struggle to weight their feet because they don't get
+    their hips in close to the wall
+```
+
 ### Links and Other External Resources
 
 * Pete Whittaker – Crack Climbing. (ISBN: 1911342762 (UK) or 1680512153 (US)
