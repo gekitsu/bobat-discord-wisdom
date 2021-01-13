@@ -114,6 +114,7 @@ Slie: trust them feet!
 
 * Esther Smith for Black Diamond – [Hang Right Part 3 – Healing Nagging Finger Injuries](https://www.blackdiamondequipment.com/en_US/esther-smith-nagging-finger-injuries/esther-smith-nagging-finger-injuries.html)
 * Jeff Giddings for Climbing.com – [The Complete Pulley Injury Rehab Program for Climbers](https://www.climbing.com/skills/the-complete-pulley-injury-rehab-program-for-climbers/)
+* A reddit thread mentioning silicone toe sleeves to alleviate the big toe bump. Worked for several of us. – [r/climbing: Bump on big toe: 1-year update and related thoughts](https://www.reddit.com/r/climbing/comments/7uppa2/bump_on_big_toe_1year_update_and_related_thoughts/)
 
 * Steven Low – [Overcoming Tendonitis](http://stevenlow.org/overcoming-tendonitis/)
 
