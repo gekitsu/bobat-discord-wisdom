@@ -123,3 +123,5 @@ Slie: trust them feet!
 ### Links and Other External Resources
 
 * Volker Schöffl, Dicki Korb, Patrick Matros – [Adjunct Compensatory Training for Rock Climbers](https://www.sozialstiftung-bamberg.de/static/act-pdf/index.html) (This is a full exercise book, downloadable for free!)
+
+* Keith Baar – [Minimizing Injury and Maximizing Return to Play: Lessons from Engineered Ligaments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5371618/) (This is a really useful paper on how tendon and ligament tissue reacts to strain. Emil Abrahamsson’s brother Felix [built this into a rehab-like hangboarding routine](https://www.youtube.com/watch?v=sBTI9qiH4UE) that yielded interesting results for them.)
