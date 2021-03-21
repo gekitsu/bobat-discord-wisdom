@@ -118,6 +118,11 @@ Slie: trust them feet!
 
 * Steven Low – [Overcoming Tendonitis](http://stevenlow.org/overcoming-tendonitis/)
 
+* RICE (rest, ice, compress, elevate) has been a common recommendation for soft tissue injuries for decades. But MEAT (movement, exercise, analgesia, treatment) is the more productive approach. Even Dr. Gabe Mirkin, who coined the RICE mnemonic in the 70s, switched his stance on this. (Thanks to Anne for compiling the links and being a frequent advocate for letting inflammation do its thing in multiple rehab discussions.)
+	* Domenic Scialoia & Adam J. Swartzendruber – [The R.I.C.E. Protocol is a Myth: A Review and Recommendations](https://thesportjournal.org/article/the-r-i-c-e-protocol-is-a-myth-a-review-and-recommendations/)
+	* Dr. Jennifer Robinson – [MOVE an Injury not RICE](https://thischangedmypractice.com/move-an-injury-not-rice/)
+	* Ross Hauser, MD – [Return to Play | MEAT](https://www.caringmedical.com/prolotherapy-news/return-play-meat-movement-exercise-analgesia-treatment/)
+
 ## Training & Exercise
 
 ### Links and Other External Resources
