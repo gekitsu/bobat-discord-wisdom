@@ -1,5 +1,6 @@
 # The Collected Bobat Discord Wisdom
 
+
 ## Climbing Technique
 
 ### hirs and gekitsu on Slopers
@@ -106,23 +107,38 @@ Slie: trust them feet!
 
 * Pete Whittaker – Crack Climbing. (ISBN: 1911342762 (UK) or 1680512153 (US)
 
+
 ## Injuries
 
 ### Links and Other External Resources
 
 * Dave MacLeod – Make or Break: Don’t Let Climbing Injuries Dictate Your Success. (ISBN: 0956428134)
 
-* Pulley injuries
-	* Esther Smith for Black Diamond – [Hang Right Part 3 – Healing Nagging Finger Injuries](https://www.blackdiamondequipment.com/en_US/stories/experience-story-esther-smith-nagging-finger-injuries/)
+#### Pulley Injuries
 
-* A reddit thread mentioning silicone toe sleeves to alleviate the big toe bump. Worked for several of us. – [r/climbing: Bump on big toe: 1-year update and related thoughts](https://www.reddit.com/r/climbing/comments/7uppa2/bump_on_big_toe_1year_update_and_related_thoughts/)
+* Esther Smith for Black Diamond – [Hang Right Part 3 – Healing Nagging Finger Injuries](https://www.blackdiamondequipment.com/en_US/stories/experience-story-esther-smith-nagging-finger-injuries/)
+
+#### Bumps on the Big Toe Knuckle
+
+Not necessarily something that requires treatment, unless they cause pain and make you unable to climb.
+
+* `u/nibblesonthebias` – [Bump on big toe: 1-year update and related thoughts](https://www.reddit.com/r/climbing/comments/7uppa2/bump_on_big_toe_1year_update_and_related_thoughts/) – A (now deleted, thanks `u/climbing` moderators, you unshelled fucking walnuts) reddit thread mentioning silicone toe sleeves to alleviate the big toe bump. Worked for several of us. You’ll probably find these sleeves on amazon or similar stores. They are a stretchy knit/fabric on the outside and have a layer of silicon on the inside to provide a little cushioning. They usually are way longer than a toe and you’re meant to cut them to length.
+
+#### Tendonitis
 
 * Steven Low – [Overcoming Tendonitis](http://stevenlow.org/overcoming-tendonitis/)
 
-* RICE (rest, ice, compress, elevate) has been a common recommendation for soft tissue injuries for decades. But MEAT (movement, exercise, analgesia, treatment) is the more productive approach. Even Dr. Gabe Mirkin, who coined the RICE mnemonic in the 70s, switched his stance on this. (Thanks to Anne for compiling the links and being a frequent advocate for letting inflammation do its thing in multiple rehab discussions.)
-	* Domenic Scialoia & Adam J. Swartzendruber – [The R.I.C.E. Protocol is a Myth: A Review and Recommendations](https://thesportjournal.org/article/the-r-i-c-e-protocol-is-a-myth-a-review-and-recommendations/)
-	* Dr. Jennifer Robinson – [MOVE an Injury not RICE](https://thischangedmypractice.com/move-an-injury-not-rice/)
-	* Ross Hauser, MD – [Return to Play | MEAT](https://www.caringmedical.com/prolotherapy-news/return-play-meat-movement-exercise-analgesia-treatment/)
+#### RICE vs. MEAT
+
+RICE (rest, ice, compress, elevate) has been a common recommendation for soft tissue injuries for decades.
+But MEAT (movement, exercise, analgesia, treatment) is the more productive approach.
+Even Dr. Gabe Mirkin, who coined the RICE mnemonic in the 70s, switched his stance on this.
+(Thanks to Anne for compiling the links and being a frequent advocate for letting inflammation do its thing in multiple rehab discussions.)
+
+* Domenic Scialoia & Adam J. Swartzendruber – [The R.I.C.E. Protocol is a Myth: A Review and Recommendations](https://thesportjournal.org/article/the-r-i-c-e-protocol-is-a-myth-a-review-and-recommendations/)
+* Dr. Jennifer Robinson – [MOVE an Injury not RICE](https://thischangedmypractice.com/move-an-injury-not-rice/)
+* Ross Hauser, MD – [Return to Play | MEAT](https://www.caringmedical.com/prolotherapy-news/return-play-meat-movement-exercise-analgesia-treatment/)
+
 
 ## Training & Exercise
 
@@ -130,12 +146,21 @@ Slie: trust them feet!
 
 * Volker Schöffl, Dicki Korb, Patrick Matros – [Adjunct Compensatory Training for Rock Climbers](https://www.sozialstiftung-bamberg.de/static/act-pdf/) (This is a full exercise book, downloadable for free!)
 
-* The Abrahangs Discussion. Emil Abrahamsson published a [video on his channel](https://www.youtube.com/watch?v=sBTI9qiH4UE) featuring a low-intensity hangboard programme that yielded good recovery for his brother Felix and some interesting results for Emil. Internet notoriety ensued.
-	* Keith Baar – [Minimizing Injury and Maximizing Return to Play: Lessons from Engineered Ligaments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5371618/) (The paper on how tendon and ligament tissue reacts to strain that the Abrahamssons’ programme was built on.)
-	* `u/Paul513Journey` – [Clearing up Confusion on Emils New Twice a Day Hangboard Routine](https://www.reddit.com/r/climbharder/comments/lhacnu/clearing_up_confusion_on_emils_new_twice_a_day/) (A post on `r/climbharder` by a climbing physio on the physiology of finger tendons and what this kind of exercise regimen can and can not achieve, plus some ideas for modifications.)
-	* Hooper’s Beta – [CLIMBING BREAKTHROUGH!?](https://www.youtube.com/watch?v=EfSSXW9Eq2Y) (Doc Hooper comes to a similar conclusion.)
-	* Bouldering Bobat Crew and Tom Randall – BB Q&A with Tom Randall: A twitch.tv livestream (VOD offline since) where Tom Randall answers community questions, including a short bit on the Abrahamssons’ program. Tom’s TL;DR: Please do not use this as a cure-all, super effective secret sauce for massive gains. It has its uses for rehabilitation and for people new to hangboarding, and the science it is based on is solid as well. But for most performance-increasing uses, there are more targeted exercise regimens. Read the science and see if what this does applies to your situation.
-	* The Nugget Climbing Podcast – [Ep. 119, Carrie Cooper](https://thenuggetclimbing.com/episodes/carrie-cooper) has a segment on a tissue health protocol Dr. Cooper recommends that is very similar to Emil’s No-hangs programme, also based on Keith Barr’s research. She calls it ‘Minimums’ and it begins at the 1:58:00 mark.
+#### The Abrahangs Discussion
+
+Emil Abrahamsson published a [video on his channel](https://www.youtube.com/watch?v=sBTI9qiH4UE) featuring a low-intensity hangboard programme that yielded good recovery for his brother Felix and some interesting results for Emil.
+Internet notoriety ensued.
+
+* Keith Baar – [Minimizing Injury and Maximizing Return to Play: Lessons from Engineered Ligaments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5371618/) (The paper on how tendon and ligament tissue reacts to strain that the Abrahamssons’ programme was built on.)
+* `u/Paul513Journey` – [Clearing up Confusion on Emils New Twice a Day Hangboard Routine](https://www.reddit.com/r/climbharder/comments/lhacnu/clearing_up_confusion_on_emils_new_twice_a_day/) (A post on `r/climbharder` by a climbing physio on the physiology of finger tendons and what this kind of exercise regimen can and can not achieve, plus some ideas for modifications.)
+* Hooper’s Beta – [CLIMBING BREAKTHROUGH!?](https://www.youtube.com/watch?v=EfSSXW9Eq2Y) (Doc Hooper comes to a similar conclusion.)
+* Bouldering Bobat Crew and Tom Randall – BB Q&A with Tom Randall: A twitch.tv livestream (VOD offline since) where Tom Randall answers community questions, including a short bit on the Abrahamssons’ program. Tom’s TL;DR: Please do not use this as a cure-all, super effective secret sauce for massive gains. It has its uses for rehabilitation and for people new to hangboarding, and the science it is based on is solid as well. But for most performance-increasing uses, there are more targeted exercise regimens. Read the science and see if what this does applies to your situation.
+* The Nugget Climbing Podcast – [Ep. 119, Carrie Cooper](https://thenuggetclimbing.com/episodes/carrie-cooper) has a segment on a tissue health protocol Dr. Cooper recommends that is very similar to Emil’s No-hangs programme, also based on Keith Barr’s research. She calls it ‘Minimums’ and it begins at the 1:58:00 mark.
+
+#### Stretching & Mobility
 
 * Tom Merrick – [15 Minute Hamstring Flexibility Routine](https://www.youtube.com/watch?v=3Ymjw7TSzrE) (A stretching routine that beardedbeer introduced to the discord and had multiple members being able to touch their toes in a really short time.)
+
+#### Warming Up
+
 * Tyler Nelson – [Camp4 Human Performance Injury Prevention Program](https://www.camp4humanperformance.com/blog-2/2021/12/16/c4hp-injury-prevention-program-ipp) (An approach to a climbing warmup routine that challenges warming up on easy climbs and instead focuses on higher intensity exercises that mirror the discipline’s requirements.)
