@@ -103,6 +103,42 @@ Slie: trust them feet!
     their hips in close to the wall
 ```
 
+### Adam Ondra Heel Hook Cliff Notes
+
+(These are excerpted from a [Sneak Peek](https://altitudeclimbing.com/adam-ondra-sneak-peek/) for Adam’s lead climbing video course at Altitude)
+
+* Heel hook placement
+	* Contact area: the very outside of your heel. Think the triangle area where many shoes have a bit of the upper material peek through between the sole and the slingshot around the achilles tendon.
+	* Placement: place the heel with the foot vertical, contacting the hold with the rear of your heel, then make the foot do a ‘windshield wiper’ outwards until it rests with the side of the heel on the hold.
+	* Use this ‘windshield-wipe’ as a cue to engage as many muscles as possible as early in the placement as possible: knee flexed to pull your hip closer, hip rotation to pull down into the hold.
+	* The further you can ‘windshield-wipe,’ the more you can engage the rear *and outside* of your thigh and hip/glute. Extreme angles (toes pointing below horizontal if your flexibility permits) also put your knee at a higher stress position, so be judicious!
+* Using the heel hook
+	* To reach up, rotate your entire leg from the hip so you roll your foot ‘into’ the wall, knee above the foot, and hip rotation pulling inwards.
+	* You gain more height, engage more muscles, and generate force away from the wall to make your heel feel like a ‘third hand.’
+	* On the outmost point of your ‘windshield-wipe,’ you may even find some friction against the wall or make use of a little ripple on the rock to get a heel–toe cam going. (More an outdoors thing.)
+	* Adam says this technique is the best choice in 90–95% of cases.
+* The ‘wrong way’ (how Adam sees many climbers lose potential on their heel hooks):
+	* Contact area: not the outside heel but the sole rubber going up at the rear of the heel, below where the achilles tendon meets it.
+	* Allows for relatively solid ‘hanging’ but encourages being more passive and missing out on engaging big parts of the posterior chain in your legs and hips. In this position, you pull almost exclusively from the hamstrings.
+	* However, this can be the right choice when hooking around an arete out to the side.
+* Heel–hand matching:
+	* Often, you will place your heel to match the hand you’re going to move.
+	* Usually, it’s the better choice is to commit to the pretzel and place the heel *inside* your hand.
+	* This allows you to see the placement.
+	* Hand outside the heel encourages keeping compression between the hands while you’re moving up.
+	* Heel closer to the centre of gravity makes for a stronger position to lift your mass and keep it pulled into the wall.
+* Troubleshooting your placement:
+	* During the ‘windshield-wipe,’ keep your sole facing the wall straight on. That means foot pointed, not toes pulled up.
+	* At the end of the ‘windshield-wipe,’ take care not to have rolled your inside edge closer to the wall than the outside edge – keep the sole facing the wall until you start pulling up and over.
+	* It’s hard to engage on the heel hook early, when you’re below. Pay extra care to put as much weight through it from the beginning.
+	* Make sure you’re using your knee to pull the hips close – if your knee is too open, it’s likely your hips are far from the heel and it’s harder to pull.
+	* ‘Every time you are doing heel hooking and you are feeling that the bottom is engaged, then it means you are heel hooking right’ —Adam Ondra
+
+Describing this movement in text is not easy, but if you keep an eye out for how Adam heel hooks, you should hopefully be able to make sense of it. ;)
+
+Bonus [Nina Williams](https://www.youtube.com/watch?v=mrKQsP0J7MQ) tip for heel hooking-relevant hip mobility:
+The frog stretch and pigeon pose are your friends.
+
 ### Links and Other External Resources
 
 * Pete Whittaker – Crack Climbing. (ISBN: 1911342762 (UK) or 1680512153 (US)
